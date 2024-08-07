@@ -8,3 +8,4 @@ myalloc
 core*
 # Ignore build directories
 build/
+.vscode/
