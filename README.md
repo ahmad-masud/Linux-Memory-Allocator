@@ -1,6 +1,6 @@
-# AllocPlus
+# Linux-Memory-Allocator
 
-AllocPlus is a multithreaded C++ memory allocator designed to provide advanced allocation strategies and optimized memory management. This project offers flexibility and efficiency for managing memory in C++ applications.
+Linux-Memory-Allocator is a multithreaded C++ memory allocator designed to provide advanced allocation strategies and optimized memory management. This project offers flexibility and efficiency for managing memory in C++ applications.
 
 ## Features
 
