@@ -1,0 +1,10 @@
+# Ignore the target executable
+myalloc
+# Ignore object files
+*.o
+# Ignore dependency files
+*.d
+# Ignore core dumps
+core*
+# Ignore build directories
+build/
